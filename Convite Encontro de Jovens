@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Encontrão de Jovens - Juventude Santa: Caminho de Conversão</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #fff5e6;
+            color: #333;
+        }
+        header {
+            background-color: #891918;
+            color: white;
+            text-align: center;
+            padding: 20px 0;
+        }
+        header h1 {
+            font-size: 36px;
+        }
+        .container {
+            padding: 20px;
+            text-align: center;
+        }
+        .highlight {
+            color: #efba2e;
+            font-weight: bold;
+            font-size: 24px;
+        }
+        .info {
+            margin-top: 30px;
+            background-color: #891918;
+            color: white;
+            padding: 20px;
+            border-radius: 10px;
+        }
+        .info p {
+            font-size: 18px;
+        }
+        .footer {
+            background-color: #891918;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+        .footer p {
+            margin: 0;
+        }
+        .contact-info {
+            margin-top: 20px;
+            font-size: 18px;
+            color: #891918;
+        }
+        .contact-info a {
+            color: #891918;
+            text-decoration: none;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Juventude Santa: Caminho de Conversão</h1>
+    </header>
+
+    <div class="container">
+        <h2>⚡️ VOCÊ ESTÁ CONVIDADO! ⚡️</h2>
+        <p>Venha viver um dia de fé, alegria e muita transformação com a juventude! ✝️</p>
+        <p><span class="highlight">Maria, nossa mãe, te convida para este encontro único!</span></p>
+
+        <div class="info">
+            <p><strong>Data:</strong> 16/02/25</p>
+            <p><strong>Local:</strong> Salão Paroquial</p>
+            <p><strong>Horário de Início:</strong> 08:00</p>
+            <p><strong>Horário de Encerramento:</strong> 20:00 (com a missa às 19:00 na Matriz)</p>
+            <p><strong>Valor:</strong> R$30,00 (Pagamento somente em dinheiro)</p>
+            <p><strong>Idade mínima:</strong> A partir de 13 anos</p>
+        </div>
+
+        <p>💥 Não perca essa oportunidade de viver a fé e a amizade em Cristo! 💥</p>
+
+        <div class="contact-info">
+            <p><strong>Para mais informações, entre em contato:</strong></p>
+            <p>📱 <a href="tel:+5549998051176">49998051176</a> | <a href="tel:+5549988127741">49988127741</a></p>
+
+            <p><strong>Para se inscrever, basta ir a um desses locais:</strong></p>
+            <p>- Casa Paroquial</p>
+            <p>- Santuário</p>
+            <p>- Sandra Modas</p>
+            <p>- Expresso São Miguel</p>
+            <p>- Ou fale com algum integrante da Pastoral Juvenil</p>
+        </div>
+    </div>
+
+    <div class="footer">
+        <p>Nos vemos lá! 🙏</p>
+    </div>
+</body>
+</html>
